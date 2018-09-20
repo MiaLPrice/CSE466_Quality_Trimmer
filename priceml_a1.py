@@ -2,7 +2,7 @@
 
 @author Mia Price
 @since 2018-20-2018
-@version
+@version 1
 """
 
 import sys
